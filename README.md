@@ -1,15 +1,12 @@
 # AI Tutor - Your Personal Learning Assistant
 
-<div align="center">
-  <img src="vite.svg" width="100" />
-  <h1>AI Tutor Header</h1>
-  <p>
-    <strong>Master any subject with personalized AI guidance.</strong>
-  </p>
-  <p>
-    Built with HTML, CSS, and Vanilla JavaScript.
-  </p>
-</div>
+![AI Tutor Logo](education.png)
+
+## AI Tutor Header
+
+**Master any subject with personalized AI guidance.**
+
+Built with HTML, CSS, and Vanilla JavaScript.
 
 ---
 
@@ -101,6 +98,4 @@ To deploy to **GitHub Pages**:
 
 ---
 
-<div align="center">
-  <p>© 2024 AI Tutor. All rights reserved.</p>
-</div>
+© 2024 AI Tutor. All rights reserved.
